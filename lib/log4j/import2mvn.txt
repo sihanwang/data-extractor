@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=log4j-1.2.13.jar -DgroupId=log4j -DartifactId=log4j -Dversion=1.2.13 -Dpackaging=jar

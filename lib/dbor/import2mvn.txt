@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=dbor-0.0.1.jar -DgroupId=com.thomsonreuters.ce -DartifactId=dbor -Dversion=0.0.1 -Dpackaging=jar

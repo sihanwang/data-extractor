@@ -1,0 +1,7 @@
+*.class
+*.bak
+.classpath
+
+# Folders
+target/
+.settings/
